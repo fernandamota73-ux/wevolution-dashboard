@@ -1,0 +1,5 @@
+data/lnf_requests.csv
+id,empresa,oba,cluster,funcao,escola,prioridade,tipologia,budget
+1,FID,Direção Comercial,Gestão,Manager,Liderança,Alta,Workshop,5000
+2,MLC,Operações,Digital,Analista,Digital,Média,Online,2000
+3,VD,Marketing,Comunicação,Especialista,Digital,Baixa,Workshop,1500
